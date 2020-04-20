@@ -1,6 +1,7 @@
 __[2020/04/20]__   
 ---
->React 커밋
+>React 커밋   
+![Alt text](/path/hello-react/public/react.png)
 
 ***
 
