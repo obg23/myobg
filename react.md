@@ -1,7 +1,7 @@
 __[2020/04/20]__   
 ---
 >React 커밋   
-![Alt text](/path/hello-react/public/react.png)
+![Alt text](https://github.com/obg23/myobg/blob/master/hello-react/public/react.png?raw=true)
 
 ***
 
